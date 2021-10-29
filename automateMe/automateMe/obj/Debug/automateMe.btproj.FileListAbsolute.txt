@@ -1,0 +1,6 @@
+C:\Users\obekpaa\source\repos\automateMe\automateMe\bin\Debug\automateMe.dll
+C:\Users\obekpaa\source\repos\automateMe\automateMe\bin\Debug\automateMe.pdb
+C:\Users\obekpaa\source\repos\automateMe\automateMe\obj\Debug\automateMe.btproj.AssemblyReference.cache
+C:\Users\obekpaa\source\repos\automateMe\automateMe\obj\Debug\automateMe.btproj.CoreCompileInputs.cache
+C:\Users\obekpaa\source\repos\automateMe\automateMe\obj\Debug\automateMe.dll
+C:\Users\obekpaa\source\repos\automateMe\automateMe\obj\Debug\automateMe.pdb
